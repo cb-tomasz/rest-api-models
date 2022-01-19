@@ -42,7 +42,7 @@ Problem:
     items:
     type: string
   cause:
-    $ref: 'https://github.com/cb-tomasz/rest-api-models/blob/main/problem_1.0.0.yaml'
+    $ref: 'https://raw.githubusercontent.com/cb-tomasz/rest-api-models/main/problem_1.0.0.yaml'
   request_id:
     type: string
     description: Returns the id of the request that caused the problem.
